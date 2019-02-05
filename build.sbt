@@ -1,5 +1,5 @@
 name    := "fixtures"
-version := "0.0.0"
+version := "1.0.0"
 
 organization := "uk.ac.wellcome"
 scalaVersion := "2.12.6"
