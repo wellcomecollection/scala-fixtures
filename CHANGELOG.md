@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.2.0 - 2019-07-01
+
+Add a few more helpers to RandomGenerators.
+
 ## v1.1.0 - 2019-07-01
 
 Add a `RandomGenerators` trait for some of our most common random generators.
