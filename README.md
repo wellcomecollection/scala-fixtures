@@ -1,12 +1,12 @@
 # scala-fixtures
 
-[![Build Status](https://travis-ci.org/wellcometrust/scala-fixtures.svg?branch=master)](https://travis-ci.org/wellcometrust/scala-fixtures)
+[![Build Status](https://travis-ci.org/wellcomecollection/scala-fixtures.svg?branch=master)](https://travis-ci.org/wellcomecollection/scala-fixtures)
 
 Some shared test helpers and fixtures.
 
 This library is used as part of the [Wellcome Digital Platform][platform].
 
-[platform]: https://github.com/wellcometrust/platform
+[platform]: https://github.com/wellcomecollection/platform
 
 ## Installation
 
